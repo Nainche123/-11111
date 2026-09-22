@@ -1,0 +1,606 @@
+{
+  "products": [
+    {
+      "id": "vexo-자판기봇-basic",
+      "name": "VEXO 자판기봇 BASIC",
+      "category": "자판기봇",
+      "price": 19000,
+      "badge": "START",
+      "description": "자판기봇 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": "assets/products/01-vending-basic.png"
+    },
+    {
+      "id": "vexo-자판기봇-pro",
+      "name": "VEXO 자판기봇 PRO",
+      "category": "자판기봇",
+      "price": 39000,
+      "badge": "PREMIUM",
+      "description": "자판기봇 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": "assets/products/02-vending-pro.png"
+    },
+    {
+      "id": "vexo-디스코드-서버-템플릿",
+      "name": "VEXO 디스코드 서버 템플릿",
+      "category": "서버 템플릿",
+      "price": 19000,
+      "badge": "TEMPLATE",
+      "description": "서버 템플릿 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": "assets/products/03-shop-template.png"
+    },
+    {
+      "id": "vexo-서버-템플릿-pro",
+      "name": "VEXO 서버 템플릿 PRO",
+      "category": "서버 템플릿",
+      "price": 34000,
+      "badge": "PREMIUM",
+      "description": "서버 템플릿 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": "assets/products/04-community-template.png"
+    },
+    {
+      "id": "vexo-자동화-패키지",
+      "name": "VEXO 자동화 패키지",
+      "category": "자동화",
+      "price": 49000,
+      "badge": "AUTO",
+      "description": "자동화 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-커스텀-봇-제작",
+      "name": "VEXO 커스텀 봇 제작",
+      "category": "개발",
+      "price": 89000,
+      "badge": "CUSTOM",
+      "description": "개발 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": "assets/products/12-custom-automation.png"
+    },
+    {
+      "id": "vexo-store-올인원",
+      "name": "VEXO STORE 올인원",
+      "category": "패키지",
+      "price": 99000,
+      "badge": "BUNDLE",
+      "description": "패키지 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-런칭-풀세팅",
+      "name": "VEXO 런칭 풀세팅",
+      "category": "패키지",
+      "price": 149000,
+      "badge": "BUNDLE",
+      "description": "패키지 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "봇-설치-가이드",
+      "name": "봇 설치 가이드",
+      "category": "가이드",
+      "price": 6000,
+      "badge": "GUIDE",
+      "description": "가이드 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "호스팅-가이드",
+      "name": "호스팅 가이드",
+      "category": "가이드",
+      "price": 7000,
+      "badge": "GUIDE",
+      "description": "가이드 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "서버-세팅-가이드",
+      "name": "서버 세팅 가이드",
+      "category": "가이드",
+      "price": 7000,
+      "badge": "GUIDE",
+      "description": "가이드 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "자판기봇-운영-가이드",
+      "name": "자판기봇 운영 가이드",
+      "category": "가이드",
+      "price": 9000,
+      "badge": "GUIDE",
+      "description": "가이드 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "올인원-세팅-가이드",
+      "name": "올인원 세팅 가이드",
+      "category": "가이드",
+      "price": 19000,
+      "badge": "GUIDE",
+      "description": "가이드 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-디지털-자동지급팩",
+      "name": "VEXO 디지털 자동지급팩",
+      "category": "봇 옵션",
+      "price": 19900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-알림-자동화팩",
+      "name": "VEXO 알림 자동화팩",
+      "category": "봇 옵션",
+      "price": 9900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-seller-dashboard",
+      "name": "VEXO SELLER DASHBOARD",
+      "category": "패키지",
+      "price": 29900,
+      "badge": "BUNDLE",
+      "description": "패키지 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": "assets/products/08-admin-panel.png"
+    },
+    {
+      "id": "vexo-자판기봇-basic-premium",
+      "name": "VEXO 자판기봇 BASIC PREMIUM",
+      "category": "자판기봇",
+      "price": 29000,
+      "badge": "PREMIUM",
+      "description": "자판기봇 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": "assets/vexo-product-basic-premium.png"
+    },
+    {
+      "id": "vexo-자판기봇-pro-premium",
+      "name": "VEXO 자판기봇 PRO PREMIUM",
+      "category": "자판기봇",
+      "price": 59000,
+      "badge": "ULTIMATE",
+      "description": "자판기봇 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": "assets/vexo-product-pro-premium.png"
+    },
+    {
+      "id": "vexo-임베드-디자인팩",
+      "name": "VEXO 임베드 디자인팩",
+      "category": "디자인",
+      "price": 9900,
+      "badge": "DESIGN",
+      "description": "디자인 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-버튼-패널-디자인팩",
+      "name": "VEXO 버튼 & 패널 디자인팩",
+      "category": "디자인",
+      "price": 12900,
+      "badge": "DESIGN",
+      "description": "디자인 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-봇-ui-스킨팩",
+      "name": "VEXO 봇 UI 스킨팩",
+      "category": "디자인",
+      "price": 14900,
+      "badge": "DESIGN",
+      "description": "디자인 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-티켓-ui-커스텀",
+      "name": "VEXO 티켓 UI 커스텀",
+      "category": "디자인",
+      "price": 7900,
+      "badge": "DESIGN",
+      "description": "디자인 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-주문-ui-업그레이드",
+      "name": "VEXO 주문 UI 업그레이드",
+      "category": "봇 옵션",
+      "price": 10900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-봇-기능-확장팩",
+      "name": "VEXO 봇 기능 확장팩",
+      "category": "봇 옵션",
+      "price": 14900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-봇-브랜딩팩",
+      "name": "VEXO 봇 브랜딩팩",
+      "category": "디자인",
+      "price": 6900,
+      "badge": "DESIGN",
+      "description": "디자인 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-티켓-자동화-확장팩",
+      "name": "VEXO 티켓 자동화 확장팩",
+      "category": "봇 옵션",
+      "price": 9900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-결제-자동화-확장팩",
+      "name": "VEXO 결제 자동화 확장팩",
+      "category": "봇 옵션",
+      "price": 14900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-운영-자동화-확장팩",
+      "name": "VEXO 운영 자동화 확장팩",
+      "category": "봇 옵션",
+      "price": 19900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-보안-강화팩",
+      "name": "VEXO 보안 강화팩",
+      "category": "봇 옵션",
+      "price": 14900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-통계-대시보드팩",
+      "name": "VEXO 통계 대시보드팩",
+      "category": "봇 옵션",
+      "price": 12900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-간단-커스텀-옵션",
+      "name": "VEXO 간단 커스텀 옵션",
+      "category": "커스텀",
+      "price": 19900,
+      "badge": "CUSTOM",
+      "description": "커스텀 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-중급-커스텀-옵션",
+      "name": "VEXO 중급 커스텀 옵션",
+      "category": "커스텀",
+      "price": 34900,
+      "badge": "CUSTOM",
+      "description": "커스텀 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-대형-커스텀-옵션",
+      "name": "VEXO 대형 커스텀 옵션",
+      "category": "커스텀",
+      "price": 69900,
+      "badge": "CUSTOM",
+      "description": "커스텀 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-메이저-버전-업그레이드",
+      "name": "VEXO 메이저 버전 업그레이드",
+      "category": "업그레이드",
+      "price": 19900,
+      "badge": "UPDATE",
+      "description": "업그레이드 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-seller-pack",
+      "name": "VEXO SELLER PACK",
+      "category": "패키지",
+      "price": 44900,
+      "badge": "BUNDLE",
+      "description": "패키지 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-seller-pro",
+      "name": "VEXO SELLER PRO",
+      "category": "패키지",
+      "price": 69900,
+      "badge": "PREMIUM",
+      "description": "패키지 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-화이트라벨-패키지",
+      "name": "VEXO 화이트라벨 패키지",
+      "category": "개발",
+      "price": 79900,
+      "badge": "CUSTOM",
+      "description": "개발 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-growth-bundle",
+      "name": "VEXO GROWTH BUNDLE",
+      "category": "패키지",
+      "price": 49900,
+      "badge": "BUNDLE",
+      "description": "패키지 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-고객관리-확장팩",
+      "name": "VEXO 고객관리 확장팩",
+      "category": "봇 옵션",
+      "price": 19900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-백업-복구-강화팩",
+      "name": "VEXO 백업·복구 강화팩",
+      "category": "봇 옵션",
+      "price": 12900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-쿠폰-프로모션-팩",
+      "name": "VEXO 쿠폰 & 프로모션 팩",
+      "category": "봇 옵션",
+      "price": 14900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-주문-매출-분석팩",
+      "name": "VEXO 주문·매출 분석팩",
+      "category": "봇 옵션",
+      "price": 19900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    },
+    {
+      "id": "vexo-고급-티켓팩",
+      "name": "VEXO 고급 티켓팩",
+      "category": "봇 옵션",
+      "price": 19900,
+      "badge": "ADD-ON",
+      "description": "봇 옵션 카테고리의 VEXOHUB 디지털 상품입니다.",
+      "features": [
+        "상품 상세 구성 확인",
+        "구매 후 안내 제공",
+        "Discord 문의 지원"
+      ],
+      "image": ""
+    }
+  ]
+}
